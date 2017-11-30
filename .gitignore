@@ -1,0 +1,9 @@
+/var/
+/vendor/
+/bin/*
+!/bin/console
+
+/var/*
+!/var/cache
+/var/cache/*
+/.idea
